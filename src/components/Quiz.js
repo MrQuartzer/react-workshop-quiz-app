@@ -1,6 +1,8 @@
 const Quiz = () =>{
     return(
-        <div className></div>
+        <div className="quiz">
+            <h1>Quiz Component</h1>
+        </div>
     )
 }
 
